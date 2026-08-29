@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".AegionWealthApplication"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher_round"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AegionWealth">
+        <activity
+            android:name=".ui.activity.DisplayPortfolioActivity"
+            android:exported="false"
+            android:label="@string/title_activity_display_portfolio"
+            android:theme="@style/Theme.AegionWealth" />
+        <activity
+            android:name=".ui.activity.PortfolioViewerActivity"
+            android:exported="false"
+            android:label="@string/title_activity_portfolio_viewer"
+            android:theme="@style/Theme.AegionWealth" />
+        <activity
+            android:name=".ui.activity.MultiPortfolioAllocatorResultActivity"
+            android:exported="false"
+            android:label="@string/title_activity_multi_portfolio_allocatior_result"
+            android:theme="@style/Theme.AegionWealth" />
+        <activity
+            android:name=".ui.activity.CreateMultiAssetPortfolioActivity"
+            android:exported="false"
+            android:label="@string/title_activity_create_multi_asset_portfolio"
+            android:theme="@style/Theme.AegionWealth" />
+        <activity
+            android:name=".ui.activity.StockPortfolioAllocationResultActivity"
+            android:exported="false"
+            android:label="@string/title_activity_stock_portfolio_allocation_result"
+            android:theme="@style/Theme.AegionWealth" />
+        <activity
+            android:name=".ui.activity.CreatePortfolioActivity"
+            android:exported="false"
+            android:label="@string/title_activity_create_portfolio"
+            android:theme="@style/Theme.AegionWealth" />
+        <activity
+            android:name=".ui.activity.LoginActivity"
+            android:exported="false"
+            android:label="@string/title_activity_login"
+            android:theme="@style/Theme.AegionWealth" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AegionWealth">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

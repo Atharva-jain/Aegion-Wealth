@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aegion Wealth</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="default_web_client_id">943588080244-jlm6ci9rch66d490eje8an210siq6ara.apps.googleusercontent.com</string>
+    <string name="title_activity_create_portfolio">CreatePortfolioActivity</string>
+    <string name="title_activity_stock_portfolio_allocation_result">
+        StockPortfolioAllocationResultActivity
+    </string>
+    <string name="title_activity_create_multi_asset_portfolio">CreateMultiAssetPortfolioActivity
+    </string>
+    <string name="title_activity_multi_portfolio_allocatior_result">
+        MultiPortfolioAllocatiorResultActivity
+    </string>
+    <string name="title_activity_portfolio_viewer">PortfolioViewerActivity</string>
+    <string name="title_activity_display_portfolio">DisplayPortfolioActivity</string>
+</resources>

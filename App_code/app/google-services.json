@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943588080244",
+    "project_id": "aegion-wealth-database",
+    "storage_bucket": "aegion-wealth-database.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943588080244:android:bc8f4220da37ebdf7aef21",
+        "android_client_info": {
+          "package_name": "com.teapink.waste_samaritan.aegionwealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4FjWpnHVCM8ZoKsw9Y_uHmqqNwJHdZ9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

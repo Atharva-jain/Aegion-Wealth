@@ -1,0 +1,33 @@
+# Virtual environments
+venv/
+env/
+.venv/
+.pixi/
+
+# Python artifacts
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+
+# Git and Cloud
+.git/
+.gitignore
+.gcloudignore
+
+# Local Financial Data (Crucial: prevents uploading multi-GB datasets)
+*.csv
+*.parquet
+*.sqlite3
+*.db
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
