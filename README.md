@@ -36,9 +36,9 @@ Seamless, modern UI/UX designed to make complex financial data accessible and in
 
 <div align="center">
   <!-- ⚠️ REPLACE THESE LINKS WITH YOUR ACTUAL APP SCREENSHOTS ⚠️ -->
-  <img src="https://via.placeholder.com/250x500.png?text=Screenshot+1](https://github.com/Atharva-jain/Aegion-Wealth/blob/8fc2de61b6677583ff7c51daa2e1467fd0703938/home.jpeg" alt="Dashboard" width="250"/>
+  <img src="https://github.com/Atharva-jain/Aegion-Wealth/blob/0de355e62003a19814bf9018c25d106599319505/home.jpeg" alt="Dashboard" width="250"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/250x500.png?text=Screenshot+2](https://github.com/Atharva-jain/Aegion-Wealth/blob/8fc2de61b6677583ff7c51daa2e1467fd0703938/login.jpeg" alt="Login" width="250"/>
+  <img src="https://github.com/Atharva-jain/Aegion-Wealth/blob/0de355e62003a19814bf9018c25d106599319505/login.jpeg" alt="Login" width="250"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Atharva-jain/Aegion-Wealth/blob/8fc2de61b6677583ff7c51daa2e1467fd0703938/search.jpeg" alt="Search" width="250"/>
 </div>
