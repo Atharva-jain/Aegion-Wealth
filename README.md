@@ -28,7 +28,7 @@ Watch the AI portfolio manager dynamically adjust to market conditions and track
 
 <div align="center">
   <!-- ⚠️ REPLACE THIS LINK WITH YOUR ACTUAL GITHUB/IMGUR GIF LINK ⚠️ -->
-  <img src="https://github.com/Atharva-jain/Aegion-Wealth/blob/bac7b25a6901f824b41a1fa7fd84b117fb078b62/aegion.mp4" alt="Aegion Wealth App Implementation" width="600"/>
+  <img src="aegion.mp4" alt="Aegion Wealth App Implementation" width="600"/>
 </div>
 
 ### Interface & User Experience
